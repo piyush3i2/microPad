@@ -49,6 +49,3 @@ Each key sends a keyboard input, lights up an RGB LED, and the OLED shows basic 
 
 ---
 
-## License
-
-For personal and educational use.
